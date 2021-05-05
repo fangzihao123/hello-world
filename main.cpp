@@ -1,8 +1,11 @@
 #include <iostream>
+
+#include <vector>
 using namespace std;
 
 int main(){
-	cout<<"hello world">>endl;
-	cout<<endl;
-return 0;
+
+    cout<<endl;
+    cout<<"hello"<<endl;
+    return 0;
 }
